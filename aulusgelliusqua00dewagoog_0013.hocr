@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./aulusgelliusqua00dewagoog_0013.png"; bbox 0 0 3125 4959; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 886 1373 1956 1436">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 886 1373 1956 1436">
+     <span class='ocr_line' id='line_1_1' title="bbox 886 1373 1956 1436; baseline -0.003 0"><span class='ocrx_word' id='word_1_1' title='bbox 886 1373 1636 1436; x_wconf 79' lang='lat' dir='ltr'>ORNATISSIMO</span> <span class='ocrx_word' id='word_1_2' title='bbox 1692 1375 1756 1431; x_wconf 66' lang='lat' dir='ltr'>V</span> <span class='ocrx_word' id='word_1_3' title='bbox 1771 1375 1804 1431; x_wconf 81' lang='lat'>1</span> <span class='ocrx_word' id='word_1_4' title='bbox 1820 1375 1956 1433; x_wconf 65' lang='lat' dir='ltr'><strong>[fl]</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1055 1744 1788 1842">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1055 1744 1788 1842">
+     <span class='ocr_line' id='line_1_2' title="bbox 1055 1744 1788 1842; baseline -0.003 -1"><span class='ocrx_word' id='word_1_5' title='bbox 1055 1746 1160 1842; x_wconf 87' lang='lat' dir='ltr'><strong>C.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1232 1744 1788 1841; x_wconf 86' lang='lat' dir='ltr'><strong>MARTHA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 656 2041 2188 2081">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 656 2041 2188 2081">
+     <span class='ocr_line' id='line_1_3' title="bbox 656 2041 2188 2081; baseline -0.001 -1"><span class='ocrx_word' id='word_1_7' title='bbox 656 2041 713 2081; x_wconf 78' lang='lat' dir='ltr'><strong>m</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 749 2041 1064 2081; x_wconf 73' lang='lat' dir='ltr'>PARISIENSI</span> <span class='ocrx_word' id='word_1_9' title='bbox 1099 2041 1456 2081; x_wconf 74' lang='lat' dir='ltr'>LITTERARUM</span> <span class='ocrx_word' id='word_1_10' title='bbox 1493 2041 1808 2080; x_wconf 58' lang='lat' dir='ltr'>FAGULTATE</span> <span class='ocrx_word' id='word_1_11' title='bbox 1844 2043 2188 2079; x_wconf 65' lang='lat' dir='ltr'>PRUFESEUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1530 2388 2493 2443">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1530 2388 2493 2443">
+     <span class='ocr_line' id='line_1_4' title="bbox 1530 2388 2493 2443; baseline 0.001 -1"><span class='ocrx_word' id='word_1_12' title='bbox 1530 2388 1728 2443; x_wconf 54' lang='lat' dir='ltr'><strong><em>Grata&amp;</em></strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1764 2391 2056 2443; x_wconf 65' lang='lat' dir='ltr'><strong>mflmflrifffl</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 2092 2391 2493 2443; x_wconf 48' lang='lat' dir='ltr'><strong>testum-mnium*</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
